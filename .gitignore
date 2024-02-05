@@ -1,0 +1,8 @@
+# Ignore all the LaTeX output files
+*.aux 
+*.log 
+*.synctex.gz
+
+# Ignore unused Matrix Market files
+hw1/nasa2146_b.mtx
+hw1/plbuckle_G.mtx
